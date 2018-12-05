@@ -1,0 +1,50 @@
+Comment Line
+
+Value of the a = 11	
+
+
+Value of the abc = 21	
+
+variable a Redeclared
+
+Value of the z = 10	
+
+variable abc is Redeclared 
+
+
+Value of the i = 1	
+
+
+Value of the x = 0	
+
+
+Value of the p = 2	
+
+valid declaration
+
+To the power value 8
+
+
+'n' is Undeclared
+
+value of Expresssion in if: 1
+
+value of Expresssion in if if: 5
+
+value of Expresssion in else else: 7
+
+In Loop:
+88
+88
+88
+88
+88
+
+factorial value 120!
+Function  is called
+
+ Number 5 is an ODD number
+
+ FUNCTION successfully executed
+
+successfully compiled

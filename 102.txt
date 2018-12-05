@@ -1,0 +1,63 @@
+//1507102
+
+void main ( )
+start
+
+	typeINT  a=>11, abc=>21, a,m,z=>10, abc, i=>1, x=>0, p=>2.
+
+
+    p^3 .
+
+
+	m=>10-16/4+10+12*6 .
+    n=>10-16/4+10+12*6 .
+
+
+    if 1:
+	    start 1 end
+
+
+	if 2 >> 1:
+	    start
+	         if 1:
+	            start 5 end
+	         else
+	            start 7 end
+	    end
+
+      else
+         start 9 end
+
+	if 2 >> 3:
+		start 1 end
+	 else
+	   start
+	         if 0:
+	            start 5 end
+	         else
+	            start 7 end
+	    end
+
+
+    cycle ( x => 0 , x <= 4, x ++ ) 
+	start
+		m .
+	end
+
+5! .
+	 
+	function oddeven1 ( )
+
+
+
+typeINT function oddeven1 ( )
+	    start
+           5 .
+	    end
+
+
+
+
+
+end
+
